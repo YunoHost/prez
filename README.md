@@ -10,7 +10,9 @@ Utilisation de la syntaxe markdown
 Utilisation 
 ===
 
-*Télécharger la version 2.5.0 de [reveal.js](https://github.com/hakimel/reveal.js/releases)
+* Télécharger la version 2.5.0 de [reveal.js](https://github.com/hakimel/reveal.js/releases)
 * Cloner le dépôt prez
 * Remplacer le fichier index.html de reveal.js par celui du dépôt prez
 * Ajout le fichier conf_fr.md dans le répertoire contenant reveal.js
+
+_Attention il faut un serveur web pour faire fonctionner la présentation_
