@@ -2,9 +2,9 @@ Conférence Yunohost
 ====
 Utilisation de la syntaxe markdown 
 
-3 retour à la ligne changement de chapitre (slide horizontal)
+* 3 retour à la ligne changement de chapitre (slide horizontal)
 
-2 retour à la ligne changement ajout slide supplémentaire au chapitre (slide vertical)
+* 2 retour à la ligne changement ajout slide supplémentaire au chapitre (slide vertical)
 
 
 Utilisation 
@@ -15,4 +15,4 @@ Utilisation
 * Remplacer le fichier index.html de reveal.js par celui du dépôt prez
 * Ajout le fichier conf_fr.md dans le répertoire contenant reveal.js
 
-_Attention il faut un serveur web pour faire fonctionner la présentation_
+*Attention il faut un serveur web pour faire fonctionner la présentation*
