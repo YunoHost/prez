@@ -1,10 +1,11 @@
 Conférence Yunohost
 ====
-Utilisation de la syntaxe markdown 
-
+Sytntax
+===
+* Utilisation de la syntaxe markdown 
 * 3 retour à la ligne changement de chapitre (slide horizontal)
-
 * 2 retour à la ligne changement ajout slide supplémentaire au chapitre (slide vertical)
+* Possibilité d'ajouter des notes pour le conférencier avec la balise Note:
 
 
 Utilisation 
