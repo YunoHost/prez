@@ -60,10 +60,16 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
 ### Les possibilités
-* Création d'utilisateur
+* Création d'utilisateurs
 * Gestion multi domaines
 * Installation d'applications
 * Gestion des sauvegardes (0 ligne de code pour l'instant)
+
+
+
+### Les outils autour de yunohost
+* Serveur dyndns (host.me et nohost.me) (Dynette)
+* Outils de déployement d'image docker (Kremlin)
 
 
 
@@ -81,6 +87,13 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 ### L'interface web
 * Administration graphique
 * Front-end web de la CLI via une API REST
+
+
+
+## SSOwat
+* Permet l'authentification des user via des entêtes HTTP
+* Récupération des infos depuis LDAP
+* Écrit en Lua
 
 
 
