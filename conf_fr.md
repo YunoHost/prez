@@ -44,7 +44,7 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
 ### Les + de Yunohost
-* full TLS 
+* Full TLS
 * Possibilité de modifier les configurations
 * Administration web/CLI
 * Made in France
@@ -55,14 +55,14 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 * CD/USB
 * Debian existante via script
 * Docker
-* Image Rasberry/Cubieboard
+* Image Raspberry/Cubieboard
 
 
 
 ### Les possibilités
 * Création d'utilisateur
-* Gestion multi domaine
-* Installation d'application
+* Gestion multi domaines
+* Installation d'applications
 * Gestion des sauvegardes (0 ligne de code pour l'instant)
 
 
@@ -72,7 +72,7 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
 ### CLI
-* Le coeur de Yunohost
+* Le cœur de Yunohost
 * Administration en ligne de commande
 * Écrit en Python
 
@@ -80,7 +80,7 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 ### L'interface web
 * Administration graphique
-* Front end de la CLI via un API REST
+* Front-end web de la CLI via une API REST
 
 
 
@@ -93,7 +93,7 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
 ## Roadmap
-* Implementation d'un système de backup
+* Implémentation d'un système de backup
 * Ajout de la gestion des quota mail
 * Migration vers Debian Jessie
 * Utilisation d'un système de template pour la configuration des services
@@ -108,5 +108,5 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
 
-_Avez vous des questions_
+_Avez-vous des questions_
 ##?
