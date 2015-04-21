@@ -68,7 +68,7 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
 ### Les outils autour de yunohost
-* Serveur dyndns (host.me et nohost.me) (Dynette)
+* Serveur dyndns (noho.st et nohost.me) (Dynette)
 * Outils de déployement d'image docker (Kremlin)
 
 
