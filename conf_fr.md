@@ -1,8 +1,8 @@
-# Yunohost
+# YunoHost
 
 
 
-### L'auto-hébergement pour monsieur et madame  Michu!
+### L’auto-hébergement pour monsieur et madame  Michu !
 _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
@@ -10,15 +10,15 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 ## Adrien Beudin
 * Alias beudbeud
 * Administrateur système linux
-* co-fondateur et responsable technique de Yunohost
+* Co-fondateur et responsable technique de YunoHost
 
 
-## Présentation Yunohost
+## Présentation YunoHost
 
 
 ### Le but du projet
 * Installation simple
-* Interface d'administration
+* Interface d’administration
 * Open Source
 
 
@@ -38,38 +38,38 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 * Mail (Postfix + Dovecot + Amavis)
 * Web (Nginx)
 * Chat (Metronome fork de prosody)
-* Apps (roundcube, owncloud, wordpress...)
+* Apps (Roundcube, ownCloud, WordPress...)
 * SSO 
 
 
 
-### Les + de Yunohost
-* Full TLS
+### Les + de YunoHost
+* Chiffrement : full TLS
 * Possibilité de modifier les configurations
 * Administration web/CLI
 * Made in France
 
 
 
-### Les modes d'installation
+### Les modes d’installation
 * CD/USB
 * Debian existante via script
 * Docker
-* Image Raspberry/Cubieboard
+* Images Raspberry/Cubieboard
 
 
 
 ### Les possibilités
-* Création d'utilisateurs
-* Gestion multi domaines
-* Installation d'applications
-* Gestion des sauvegardes (0 ligne de code pour l'instant)
+* Création d’utilisateurs
+* Gestion multi-domaines
+* Installation d’applications
+* Gestion des sauvegardes (0 ligne de code pour l’instant)
 
 
 
-### Les outils autour de yunohost
+### Les outils autour de YunoHost
 * Serveur dyndns (noho.st et nohost.me) (Dynette)
-* Outils de déployement d'image docker (Kremlin)
+* Outils de déployement d’image docker (Kremlin)
 
 
 
@@ -78,20 +78,20 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
 ### CLI
-* Le cœur de Yunohost
+* Le cœur de YunoHost
 * Administration en ligne de commande
 * Écrit en Python
 
 
 
-### L'interface web
+### L’interface web
 * Administration graphique
 * Front-end web de la CLI via une API REST
 
 
 
 ## SSOwat
-* Permet l'authentification des user via des entêtes HTTP
+* Permet l’authentification des utilisateurs via des entêtes HTTP
 * Récupération des infos depuis LDAP
 * Écrit en Lua
 
@@ -106,17 +106,17 @@ _Écrit par Adrien Beudin / [@beudbeud](http://twitter.com/beudbeud)_
 
 
 ## Roadmap
-* Implémentation d'un système de backup
+* Implémentation d’un système de backup
 * Ajout de la gestion des quota mail
 * Migration vers Debian Jessie
-* Utilisation d'un système de template pour la configuration des services
+* Utilisation d’un système de template pour la configuration des services
 
 
 
 ## Démo
 * Installation
 * Création de compte
-* Installation d'une application
+* Installation d’une application
 * Utilisation de la CLI
 
 
